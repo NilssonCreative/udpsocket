@@ -1,6 +1,6 @@
-module github.com/theredrad/udpsocket
+module github.com/nilssoncreative/udpsocket
 
-go 1.16
+go 1.23.3
 
 require (
 	github.com/golang/mock v1.6.0 // indirect
